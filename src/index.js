@@ -16,7 +16,7 @@ var welcomeMessage = location + " Guide. You can ask me for an attraction, the l
 
 var welcomeRepromt = "You can ask me for an attraction, the local news, or  say help. What will it be?";
 
-var locationOverview = "Seattle is a West Coast seaport city and the  seat of King County. With an estimated 684,451 residents as of 2015, Seattle is the largest city in both the state of Washington and the Pacific Northwest region of North America.  What else would you like to know?";
+var locationOverview = "Biloxi is a southern gulf coast city in Harrison County. With an estimated 44,054 residents, Biloxi is the fifth largest city in Mississippi. The beachfront of Biloxi lies directly on the Mississippi Sound, with barrier islands scattered off the coast and into the Gulf of Mexico. What else would you like to know?";
 
 var HelpMessage = "Here are some things you  can say: Give me an attraction. Tell me about " + location + ". Tell me the top five things to do. Tell me the local news.  What would you like to do?";
 
