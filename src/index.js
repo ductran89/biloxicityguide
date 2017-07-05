@@ -269,7 +269,7 @@ function httpGet(query, callback) {
   console.log("/n QUERY: "+query);
 
     var options = {
-      //http://api.nytimes.com/svc/search/v2/articlesearch.json?q=seattle&sort=newest&api-key=
+      //http://api.nytimes.com/svc/search/v2/articlesearch.json?q=biloxi&sort=newest&api-key=
         host: 'api.nytimes.com',
         path: '/svc/search/v2/articlesearch.json?q=' + query + '&sort=newest&api-key=' + APIKey,
         method: 'GET'
